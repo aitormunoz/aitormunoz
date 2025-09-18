@@ -2,11 +2,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Currently working as a Software Engineer at [Brickbro](https://www.brickbro.com/). \
+&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Currently working as a Software Engineer at [PortAventura](https://www.portaventuraworld.com/en). \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Enthusiastic about new technologies and continuous learning.\
 &nbsp;&nbsp;&nbsp;❤️ &nbsp;Passionate about web development and data engineer.\
 &nbsp;&nbsp;&nbsp;💡 &nbsp;Always eager to tackle challenging problems and innovate.\
-&nbsp;&nbsp;&nbsp;🛠️ Over 8 years of experience in full-stack development.
+&nbsp;&nbsp;&nbsp;🛠️ Over 9 years of experience in full-stack development.
 
 <br/>
 
@@ -97,17 +97,3 @@
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906.svg?&style=flat&logo=webdriverio&logoColor=white)&nbsp;
 ![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?&style=flat&logo=cypress&logoColor=white)&nbsp;
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?&style=flat&logo=elixir&logoColor=white)&nbsp;
-
-### ⚙️ GitHub Statistics
-
-<p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=aitormunoz&hide_border=true&theme=nightowl" />
-</p>
-<p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aitormunoz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitormunoz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-</p>
-
-<p align="right">
-<img src="https://badges.pufler.dev/visits/aitormunoz/aitormunoz?color=black&logo=github" />
-</p>
